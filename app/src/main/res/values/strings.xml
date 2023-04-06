@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Assignment_3</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_in_to_acc">Sign in to your account</string>
+    <string name="email">Email address [required]</string>
+    <string name="password">Password [required]</string>
+    <string name="forgot_pwd"><a href="#">Forgot password?</a></string>
+    <string name="dont_have_acc">Don\'t have a account?</string>
+    <string name="create_account">Create a new account</string>
+    <string name="shopping_category">Shopping by category</string>
+    <string name="create_new_acc">Create your account</string>
+    <string name="fname">First name</string>
+    <string name="lname">Last name</string>
+</resources>
